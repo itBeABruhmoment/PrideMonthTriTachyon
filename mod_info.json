@@ -1,0 +1,11 @@
+{
+  "id":"pride_month_tritachyon",
+  "name":"Pride Month Tri-Tachyon",
+  "author":"itBeABruhmoment",
+  "utility":"true",
+  "version":"0.1",
+  "description":"Makes Tri-Tachyon show support for the LGBTQ+ community",
+  "gameVersion":"0.95.1a-RC5",
+  "modPlugin":"PrideMonthTT.PrideMonthTTModPlugin",
+  "jars":["jars/PrideMonthTT/PrideMonthTT.jar"],
+}
